@@ -1,0 +1,24 @@
+{
+    "name": "ajf/escapes",
+    "type": "library",
+    "description": "Bareword escapes!",
+    "keywords": ["dear", "god", "why", "would", "anyone", "ever", "use", "this", "zalgo"],
+    "homepage": "http://github.com/TazeTSchnitzel/escapes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrea Faulds",
+            "email": "ajf@ajf.me",
+            "homepage": "http://ajf.me/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "src.php"
+        ]
+    }
+}
